@@ -1,9 +1,8 @@
 # Análises de ações
-<a href="https://github.com/CelestialDev/Analises_de_acoes/blob/main/LICENSE" target="_blank">
+<a href="https://github.com/CelestialDev/Analises_de_acoes/blob/main/LICENSE" target="_blank" ref="external">
     <img width="460" height="300" src="img_to_github/img_menu_acoes_obtidas.png">
 </a>
 
-(https://github.com/CelestialDev/Analises_de_acoes/blob/main/LICENSE)
 # Sobre o Projeto
 Análise de Ações é um programa em terminal desenvolvido em python, no qual busca, análisa e guarda ações.
 <p>
