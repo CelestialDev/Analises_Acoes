@@ -1,5 +1,5 @@
 # Análises de ações
-<a href="https://github.com/CelestialDev/Analises_de_acoes/blob/main/LICENSE" target="_blank" ref="external">
+<a href="https://github.com/CelestialDev/Analises_Acoes/blob/main/LICENSE" target="_blank" ref="external">
     <img width="460" height="300" src="img_to_github/img_menu_acoes_obtidas.png">
 </a>
 
