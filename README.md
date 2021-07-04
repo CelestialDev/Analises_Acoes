@@ -1,4 +1,8 @@
 # Análises de ações
+<a href="https://github.com/CelestialDev/Analises_de_acoes/blob/main/LICENSE" target="_blank">
+    <img width="460" height="300" src="img_to_github/img_menu_acoes_obtidas.png">
+</a>
+
 (https://github.com/CelestialDev/Analises_de_acoes/blob/main/LICENSE)
 # Sobre o Projeto
 Análise de Ações é um programa em terminal desenvolvido em python, no qual busca, análisa e guarda ações.
@@ -22,6 +26,21 @@ O programa pode buscar ações do dia, com base no indíce que quiser.
 Você poderá escolher as planilhas de ações pesquisadas pelo programa
 <p>
     <img width="460" height="300" src="img_to_github/img_menu_analises.png">
+</p>
+
+Escolhendo qual planilha será feito a análise, você pode escolher qual análise.
+<p>
+    <img width="460" height="200" src="img_to_github/img_menu_opcoes_analise.png">
+</p>
+
+<p>
+    <img width="460" height="250" src="img_to_github/melhores_acoes_analises.png">
+</p>
+
+### Planilhas desenvolvidas
+O programa criará uma planilha com estas informações com base no indíce que tenha escolhido.
+<p>
+    <img width="1000" height="450" src="img_to_github/planilha_acoes_ibovespa.png">
 </p>
 
 ## Guardar ações
