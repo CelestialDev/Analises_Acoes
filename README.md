@@ -1,7 +1,8 @@
 # Análises de ações
 <a href="https://github.com/CelestialDev/Analises_Acoes/blob/main/LICENSE" target="_blank" ref="external">
-    <img width="460" height="300" src="img_to_github/img_menu_acoes_obtidas.png">
+    <img alt="Bower" src="https://img.shields.io/bower/l/mi">
 </a>
+
 
 # Sobre o Projeto
 Análise de Ações é um programa em terminal desenvolvido em python, no qual busca, análisa e guarda ações.
@@ -12,7 +13,7 @@ Análise de Ações é um programa em terminal desenvolvido em python, no qual b
 ## Buscar ações
 O programa pode buscar ações com base na sua escolha, ou seja, por busca específica, ou geral. 
 <p>
-    <img width="460" height="300" src="img_to_github/img_menu_acoes_busca.png">
+    <img width="460" height="250" src="img_to_github/img_menu_acoes_busca.png">
 </p>
 
 ### Buscando ações em alta
@@ -46,6 +47,6 @@ O programa criará uma planilha com estas informações com base no indíce que 
 No caso de você ter comprado algumas ações, você pode registrar suas ações obtidas no programa, e toda vez que quiser atualizar suas ações, o programa
 irá trazer a cotação da mesma, multiplicando-a com a quantidade de ações que obteu, resultando no seu total.
 <p>
-    <img width="460" height="300" src="img_to_github/img_menu_acoes_obtidas.png">
+    <img width="460" height="250" src="img_to_github/img_menu_acoes_obtidas.png">
 </p>
 
